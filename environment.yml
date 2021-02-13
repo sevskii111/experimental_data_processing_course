@@ -6,4 +6,5 @@ dependencies:
   - ipykernel
   - numpy
   - matplotlib
+  - scipy
 prefix: /home/sevskii/anaconda3/envs/experimental_data_processing_course
