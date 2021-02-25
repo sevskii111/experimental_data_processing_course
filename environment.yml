@@ -8,4 +8,5 @@ dependencies:
   - matplotlib
   - scipy
   - appmode
+  - ipywidgets
 prefix: /home/sevskii/anaconda3/envs/experimental_data_processing_course
