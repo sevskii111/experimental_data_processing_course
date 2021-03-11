@@ -1,6 +1,6 @@
 name: experimental_data_processing_course
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.9
   - ipykernel
