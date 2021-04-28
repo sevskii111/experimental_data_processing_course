@@ -2,7 +2,7 @@ name: Build Notebook Container
 on: [push]
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: python:3-slim
     steps:
       - name: checkout files in repo
         uses: actions/checkout@master
